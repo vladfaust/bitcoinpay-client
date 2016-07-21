@@ -23,6 +23,8 @@ Or install it yourself as:
 It's so easy:
 
 ```ruby
+require 'bitcoinpay'
+
 client = Bitcoinpay::Client.new(ENV['BITCOINPAY_API_KEY'])
 # => #<Bitcoinpay::Client:0x0055bfeac145d0 @api_key="nUISn79Sndsa36f64L">
 

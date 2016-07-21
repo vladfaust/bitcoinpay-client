@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vladislav.faust@gmail.com"]
 
   spec.summary       = %q{Bitcoinpay.com API client for Ruby}
-  spec.homepage      = "https://github.com/vladfaust/bitcoinpay"
+  spec.homepage      = "https://github.com/vladfaust/bitcoinpay-client"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
